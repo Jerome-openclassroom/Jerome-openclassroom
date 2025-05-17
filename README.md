@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Jerome-X1
-- 🌱 I’m currently learning AI : Fine tuning, CNN training, AI agents, Worflows n8n, Zapier, Make, flowish, netlogo, prompthub...
-- 📫 How to reach me ... by mail
-
-<!---
-Jerome-openclassroom/Jerome-openclassroom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Jerome-X1  
+🧠 I work on applied AI models combining environmental data, agent simulation and fine-tuned reasoning  
+⚙️ Tools I use: Make, n8n, OpenAI, Flowise, NetLogo, PromptLayer  
+🔬 Focus areas: air quality, health forecasting, ecological modeling, real-world integration  
+📁 Repositories: Lyra AI series (Immo, Air Santé...) coming soon  
+📫 How to reach me: via email or through GitHub Discussions
