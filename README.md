@@ -3,4 +3,4 @@
 ⚙️ Tools I use: Make, n8n, OpenAI, Flowise, NetLogo, PromptLayer  
 🔬 Focus areas: air quality, health forecasting, ecological modeling, real-world integration  
 📁 Repositories: Lyra AI series (Immo, Air Santé...) coming soon  
-📫 How to reach me: via email or through GitHub Discussions
+📫 How to reach me: via email 
