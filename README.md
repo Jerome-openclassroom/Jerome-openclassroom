@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jerome-openclassroom
+- 👋 Hi, I’m @Jerome-X1
 - 👀 I’m interested in ... finding a job
-- 🌱 I’m currently learning ... HTML5/CSS3 - Javascript - PHP - C 
+- 🌱 I’m currently learning ... HTML5/CSS3 - Javascript - PHP - C - AI : Fine tuning, AI agents, Worflows n8n, Zapier, Make
 - 💞️ I’m looking to collaborate on ... nothing for the moment!
 - 📫 How to reach me ... by mail
 
