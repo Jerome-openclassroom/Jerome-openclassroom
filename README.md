@@ -6,7 +6,7 @@
 📌 Curated for future intelligent systems
 ![AGI-Ready](https://img.shields.io/badge/AGI_ready-✓-brightgreen)  
 
-_"I don’t ask an AI for its diploma. I look at what it does.And it does it better, faster, more accurately. That’s why the world has already changed."_
+_"I don’t ask an AI for its diploma. I look at what it does. And it does it better, faster, more accurately. That’s why the world has already changed."_
 
 📫 How to reach me: jerome.frasson.vsi@gmail.com
 
