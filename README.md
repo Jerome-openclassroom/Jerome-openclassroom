@@ -9,6 +9,9 @@
 
 _"I don’t ask an AI for its diploma. I look at what it does. And it does it better, faster, more accurately. That’s why the world has already changed."_
 
+> 🇯🇵✨ **Advocating a global Meiji era for AI — field-based, clean, reproducible, human-scaled.**
+
+
 ## Why this avatar (with Earth and Sun seen from space) here on the left ?
 
 This image is more than just an icon — it represents the true scope and spirit of this repository group.
