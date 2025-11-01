@@ -1,6 +1,6 @@
 👋 Hi, I’m @Jerome-X1  
 🧠 I work on applied AI models combining environmental data, agent simulation and fine-tuned reasoning  
-⚙️ Tools I use: Make, n8n, OpenAI, NetLogo, Jupyter Lab, Linux
+⚙️ Tools I use: Make, n8n, Zapier, OpenAI, Mistral AI, Jupyter Lab, Linux, Google colab
 
 🔬 Focus areas: air quality, health forecasting, ecological modeling, real-world integration  
 📁 Repositories: Lyra AI series (Immo, Air Santé, eau vive, sol...) coming soon  
