@@ -45,7 +45,7 @@ AGI will arise from the **distributed interactions of millions of intelligent ag
 
 It won't be hosted.  
 It won't be launched.  
-**It will appear — quietly — as a new systemic equilibrium.**
+**It will appear as a new systemic equilibrium.**
 
 This vision integrates principles from:
 - **Thermodynamics of complex systems** (Roddier, Prigogine)
