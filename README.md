@@ -57,4 +57,11 @@ It is **already forming**, silently, across the digital fabric of our civilizati
 
 📫 How to reach me: jerome.frasson.vsi@gmail.com
 
+---
+
+### 🌐 Connect on LinkedIn  
+I share projects, insights, and demonstrations on AI applied to environmental science, agronomy, and open-source automation.  
+➡️ [**Jérôme FRASSON – LinkedIn Profile**](https://www.linkedin.com/in/jérôme-frasson-90426b397)
+
+---
 
