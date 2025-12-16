@@ -1,4 +1,4 @@
-👋 Hi, I’m @Jerome-X1  
+👋 Hi, I’m @Jerome-X1  (Jérôme FRASSON)
 🧠 I work on applied AI models combining environmental data, agent simulation and fine-tuned reasoning  
 ⚙️ Tools I use: Make, n8n, Zapier, OpenAI, Mistral AI, Jupyter Lab, Linux, Google colab
 
